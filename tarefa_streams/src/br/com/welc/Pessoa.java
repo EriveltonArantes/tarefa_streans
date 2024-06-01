@@ -1,10 +1,6 @@
 package br.com.welc;
 
-/**
- * 
- * @author wagne
- *
- */
+
 public class Pessoa implements Comparable<Pessoa> {
 
 	public String nome;
