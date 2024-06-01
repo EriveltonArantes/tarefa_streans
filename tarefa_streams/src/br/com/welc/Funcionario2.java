@@ -2,11 +2,8 @@ package br.com.welc;
 
 /**
  * Programa para reunir pessoas por grupo de sexo.
- * 
- * @author wagne
- * @since 23/04/2022
- *
  */
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
