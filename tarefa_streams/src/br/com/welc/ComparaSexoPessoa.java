@@ -1,7 +1,5 @@
 package br.com.welc;
-/**
- * @author wagne
- */
+
 import java.util.Comparator;
 
 
