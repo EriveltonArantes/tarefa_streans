@@ -1,2 +1,0 @@
-module AModulo22Streamsnew {
-}
